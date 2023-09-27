@@ -1,2 +1,2 @@
 # github-final-project
-Coursera Fina Evaluation
+Coursera Final Evaluation
